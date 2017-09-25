@@ -68,7 +68,7 @@ def main():
 
             total_list.append(str(add_url))
 
-            print(total_list[:-2])
+            print(total_list[:-3])
 
             for i in total_list:
                 if i is None:
